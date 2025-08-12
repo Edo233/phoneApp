@@ -1,6 +1,6 @@
 export default function Start(){
     return (
-        <div className="w-[370px] h-[690px] flex flex-col">
+        <div className="w-[390px] h-[720px] flex flex-col">
             <div className="w-full h-[600px] flex overflow-hidden">
            <img className="w-[100%] h-full relative top-10 z-5 object-cover " src="/img/men.png" alt="" />
            <img className="w-[280px] absolute top-5 left-5" src="/img/text.png" alt="" />
