@@ -1,7 +1,7 @@
 export default function Start(){
     return (
-        <div className="w-[300px] h-[700px] flex flex-col">
-            <div className="w-[300px] h-[6git00px] flex overflow-hidden">
+        <div className="w-[350px] h-[73git 0px] flex flex-col">
+            <div className="w-full h-[6git00px] flex overflow-hidden">
            <img className="w-[100%] h-full relative top-10 z-5 object-cover " src="/img/men.png" alt="" />
            <img className="w-[280px] absolute top-5 left-5" src="/img/text.png" alt="" />
         </div>
